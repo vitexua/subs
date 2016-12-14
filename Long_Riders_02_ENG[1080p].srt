@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: HorribleSubs
+Original Script: <unknown>
+Script Type: v4.00+
+PlayResX: 848
+PlayResY: 480
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.45,0:00:10.73,Default,,0000,0000,0000,,Riding a bike...
+Dialogue: 0,0:00:11.22,0:00:13.89,Default,,0000,0000,0000,,feels so good.
+Dialogue: 0,0:00:17.84,0:00:20.98,Default,,0000,0000,0000,,I'll go polish Pontakun.
+Dialogue: 0,0:00:34.50,0:00:36.14,Default,,0000,0000,0000,,Let's have fun together, okay...
+Dialogue: 0,0:00:36.74,0:00:37.94,Default,,0000,0000,0000,,Ponkakun!
+Dialogue: 0,0:00:50.02,0:00:59.58,Default,,0000,0000,0000,,Long Riders!\NEpisode 2 Cycling on the Beach!
+Dialogue: 0,0:02:12.00,0:02:16.14,Default,,0000,0000,0000,,Hunger knock yesterday,\Naching muscles today. Poor thing!
+Dialogue: 0,0:02:17.15,0:02:18.01,Default,,0000,0000,0000,,Umm...
+Dialogue: 0,0:02:18.44,0:02:20.69,Default,,0000,0000,0000,,Thank you for yesterday.
+Dialogue: 0,0:02:21.12,0:02:24.14,Default,,0000,0000,0000,,I'm Ami Kurata, a freshman.
+Dialogue: 0,0:02:24.56,0:02:27.08,Default,,0000,0000,0000,,And I'm Aoi Niigaki,\Nalso a freshman.
+Dialogue: 0,0:02:27.16,0:02:29.67,Default,,0000,0000,0000,,That's right. We didn't ask\Nyour names.
+Dialogue: 0,0:02:30.08,0:02:32.87,Default,,0000,0000,0000,,I'm Hinako Saijo. Call me Hinako.
+Dialogue: 0,0:02:33.06,0:02:35.02,Default,,0000,0000,0000,,And she's Yayoi.
+Dialogue: 0,0:02:35.13,0:02:36.58,Default,,0000,0000,0000,,I'm Yayoi Ichinose.
+Dialogue: 0,0:02:36.67,0:02:39.65,Default,,0000,0000,0000,,We're both juniors.\NNice to meet you.
+Dialogue: 0,0:02:39.98,0:02:42.20,Default,,0000,0000,0000,,Nice to meet you too.
+Dialogue: 0,0:02:43.19,0:02:47.67,Default,,0000,0000,0000,,Hinako and Yayoi are the same age?
+Dialogue: 0,0:02:48.41,0:02:52.43,Default,,0000,0000,0000,,What a coincidence that\Nwe go to the same college.
+Dialogue: 0,0:02:52.56,0:02:54.34,Default,,0000,0000,0000,,Yeah, what a surprise.
+Dialogue: 0,0:02:55.22,0:02:57.56,Default,,0000,0000,0000,,You want to say something?
+Dialogue: 0,0:02:57.69,0:02:59.97,Default,,0000,0000,0000,,No, no! Not at all!
+Dialogue: 0,0:03:00.24,0:03:02.57,Default,,0000,0000,0000,,By the way, you ride a road bike?
+Dialogue: 0,0:03:02.64,0:03:05.88,Default,,0000,0000,0000,,The wheels certainly\Nweren't for cross bikes.
+Dialogue: 0,0:03:05.94,0:03:07.12,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:03:07.42,0:03:09.97,Default,,0000,0000,0000,,They were Mavic road wheels?
+Dialogue: 0,0:03:10.07,0:03:14.31,Default,,0000,0000,0000,,Yes, I'm thinking of deep rim wheels soon.
+Dialogue: 0,0:03:14.37,0:03:16.29,Default,,0000,0000,0000,,Oh yeah, that's how it is.
+Dialogue: 0,0:03:16.40,0:03:17.67,Default,,0000,0000,0000,,I know the feeling.
+Dialogue: 0,0:03:20.08,0:03:21.09,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:03:21.50,0:03:23.30,Default,,0000,0000,0000,,Yes, Saijo here.
+Dialogue: 0,0:03:24.84,0:03:28.17,Default,,0000,0000,0000,,Okay, I'll head over now.
+Dialogue: 0,0:03:30.28,0:03:34.18,Default,,0000,0000,0000,,Sorry, I have to go\Nto the bike shop.
+Dialogue: 0,0:03:34.82,0:03:35.97,Default,,0000,0000,0000,,Bike shop?
+Dialogue: 0,0:03:36.03,0:03:38.66,Default,,0000,0000,0000,,The light you ordered came in?
+Dialogue: 0,0:03:40.23,0:03:43.34,Default,,0000,0000,0000,,Would you mind if\NI tagged along?
+Dialogue: 0,0:03:46.55,0:03:47.65,Default,,0000,0000,0000,,Of course not!
+Dialogue: 0,0:03:52.45,0:03:56.61,Default,,0000,0000,0000,,This is...the pricey shop\Nwe came to last time.
+Dialogue: 0,0:03:57.11,0:04:00.23,Default,,0000,0000,0000,,Don't tell me you shop here?!
+Dialogue: 0,0:04:00.75,0:04:02.45,Default,,0000,0000,0000,,What's with her?
+Dialogue: 0,0:04:02.54,0:04:05.92,Default,,0000,0000,0000,,She's traumatized by the prices here.
+Dialogue: 0,0:04:12.28,0:04:13.79,Default,,0000,0000,0000,,Come with me.
+Dialogue: 0,0:04:16.58,0:04:19.81,Default,,0000,0000,0000,,Impossible... No way I can afford it.
+Dialogue: 0,0:04:21.00,0:04:22.82,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:04:23.96,0:04:26.56,Default,,0000,0000,0000,,Oh, they have cheaper ones?
+Dialogue: 0,0:04:26.64,0:04:29.42,Default,,0000,0000,0000,,As well as ones like that.
+Dialogue: 0,0:04:31.34,0:04:32.45,Default,,0000,0000,0000,,500 thous...?!
+Dialogue: 0,0:04:33.65,0:04:36.45,Default,,0000,0000,0000,,Why are the prices so different?!
+Dialogue: 0,0:04:37.03,0:04:40.35,Default,,0000,0000,0000,,There are differences like performance.
+Dialogue: 0,0:04:40.45,0:04:43.92,Default,,0000,0000,0000,,It's shocking at first, huh?\NI was the same.
+Dialogue: 0,0:04:48.39,0:04:51.51,Default,,0000,0000,0000,,The different accessories are fun too.
+Dialogue: 0,0:04:52.36,0:04:56.87,Default,,0000,0000,0000,,You're right! So many cute things.
+Dialogue: 0,0:04:58.16,0:05:00.56,Default,,0000,0000,0000,,This helmet is so cute!
+Dialogue: 0,0:05:01.34,0:05:03.62,Default,,0000,0000,0000,,See anything you like?
+Dialogue: 0,0:05:03.86,0:05:05.02,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:05.44,0:05:08.05,Default,,0000,0000,0000,,What kind of light\Ndid you buy, Hinako?
+Dialogue: 0,0:05:11.08,0:05:12.15,Default,,0000,0000,0000,,This.
+Dialogue: 0,0:05:14.77,0:05:16.91,Default,,0000,0000,0000,,It's quite big, isn't it?
+Dialogue: 0,0:05:20.34,0:05:22.80,Default,,0000,0000,0000,,- Ami!\N- Don't look straight into it.
+Dialogue: 0,0:05:23.12,0:05:24.48,Default,,0000,0000,0000,,Oh geez...
+Dialogue: 0,0:05:26.58,0:05:28.17,Default,,0000,0000,0000,,Did you get to browse around?
+Dialogue: 0,0:05:28.35,0:05:30.48,Default,,0000,0000,0000,,Yes, it was fun!
+Dialogue: 0,0:05:30.98,0:05:35.67,Default,,0000,0000,0000,,I didn't know you needed\Nsuch bright lights.
+Dialogue: 0,0:05:35.79,0:05:38.07,Default,,0000,0000,0000,,It's safer to have something\Nthis strong.
+Dialogue: 0,0:05:38.44,0:05:41.57,Default,,0000,0000,0000,,When I ride at night\Nor go on brevets.
+Dialogue: 0,0:05:41.83,0:05:43.60,Default,,0000,0000,0000,,Brevet?
+Dialogue: 0,0:05:46.17,0:05:51.47,Default,,0000,0000,0000,,Brevet is long-distance cycling\Nwithin a specified time limit.
+Dialogue: 0,0:05:51.62,0:05:55.57,Default,,0000,0000,0000,,Cycling through beautiful scenery without\Nworrying about who's first.
+Dialogue: 0,0:05:55.66,0:05:58.78,Default,,0000,0000,0000,,It's really fun.
+Dialogue: 0,0:05:59.10,0:06:01.53,Default,,0000,0000,0000,,And the mountain roads at night
+Dialogue: 0,0:06:01.63,0:06:06.43,Default,,0000,0000,0000,,are magical with the skies filled with stars.
+Dialogue: 0,0:06:09.46,0:06:12.42,Default,,0000,0000,0000,,And, it takes place throughout Japan,
+Dialogue: 0,0:06:12.54,0:06:16.01,Default,,0000,0000,0000,,so you get to try all kinds\Nof regional foods.
+Dialogue: 0,0:06:21.49,0:06:23.09,Default,,0000,0000,0000,,Not only that...
+Dialogue: 0,0:06:23.15,0:06:27.73,Default,,0000,0000,0000,,There's a brevet known as flèche for\Nteams up to five riders.
+Dialogue: 0,0:06:28.08,0:06:29.28,Default,,0000,0000,0000,,Team?
+Dialogue: 0,0:06:29.66,0:06:33.05,Default,,0000,0000,0000,,Flèche competitions only specify\Nthe location of the finish,
+Dialogue: 0,0:06:33.27,0:06:38.48,Default,,0000,0000,0000,,so you can set your own route\Nto get to your goal.
+Dialogue: 0,0:06:38.55,0:06:42.72,Default,,0000,0000,0000,,It's a great way to cycle\Nwith your teammates.
+Dialogue: 0,0:06:42.89,0:06:45.48,Default,,0000,0000,0000,,You can ride all together?
+Dialogue: 0,0:06:45.56,0:06:48.50,Default,,0000,0000,0000,,Yeah, and we can choose\Nour own course.
+Dialogue: 0,0:06:49.16,0:06:51.85,Default,,0000,0000,0000,,Wow, that sounds like fun!
+Dialogue: 0,0:06:52.27,0:06:55.76,Default,,0000,0000,0000,,I wouldn't mind going\Non a flèche with you all.
+Dialogue: 0,0:06:56.02,0:06:58.12,Default,,0000,0000,0000,,We should try it, Aoi!
+Dialogue: 0,0:06:58.20,0:06:59.96,Default,,0000,0000,0000,,W-Wait, Ami.
+Dialogue: 0,0:07:00.21,0:07:02.88,Default,,0000,0000,0000,,Are you sure you're ready?
+Dialogue: 0,0:07:03.00,0:07:05.02,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:07:05.36,0:07:09.88,Default,,0000,0000,0000,,A flèche is really a brevet\Nfor "fresh" beginners, right?
+Dialogue: 0,0:07:10.35,0:07:14.02,Default,,0000,0000,0000,,Flèche is a French word\Nthat means "arrow."
+Dialogue: 0,0:07:15.62,0:07:17.03,Default,,0000,0000,0000,,Oops, my bad.
+Dialogue: 0,0:07:17.28,0:07:19.35,Default,,0000,0000,0000,,You didn't know, that's all.
+Dialogue: 0,0:07:20.37,0:07:25.91,Default,,0000,0000,0000,,So how long do you ride\Non a flèche?
+Dialogue: 0,0:07:26.26,0:07:29.92,Default,,0000,0000,0000,,It's a brevet that lasts 24 hours\Nand crosses 360 kilos.
+Dialogue: 0,0:07:35.67,0:07:40.68,Default,,0000,0000,0000,,Oh, no kidding? I guess\NI got it wrong.
+Dialogue: 0,0:07:41.33,0:07:44.39,Default,,0000,0000,0000,,I'm sorry, but can you explain\Nit to me once more?
+Dialogue: 0,0:07:44.73,0:07:48.01,Default,,0000,0000,0000,,It's a brevet in which you cycle 360 kilos\Nin 24 hours.
+Dialogue: 0,0:07:53.80,0:07:57.01,Default,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:08:00.03,0:08:03.88,Default,,0000,0000,0000,,Well, there's more to cycling than\Na brevet or flèche.
+Dialogue: 0,0:08:04.10,0:08:07.28,Default,,0000,0000,0000,,Oh yeah, are you free this weekend?
+Dialogue: 0,0:08:07.41,0:08:08.79,Default,,0000,0000,0000,,Um, yes...
+Dialogue: 0,0:08:09.14,0:08:13.57,Default,,0000,0000,0000,,We were talking about cycling\Naround Miura this weekend.
+Dialogue: 0,0:08:13.64,0:08:18.21,Default,,0000,0000,0000,,The coastline scenery is so pretty.\NWant to join us?
+Dialogue: 0,0:08:19.80,0:08:22.97,Default,,0000,0000,0000,,Cycling along the coast?
+Dialogue: 0,0:08:32.57,0:08:35.79,Default,,0000,0000,0000,,I didn't know you can\Ntake your bike on a train.
+Dialogue: 0,0:08:36.03,0:08:39.48,Default,,0000,0000,0000,,It's called "pack and take."
+Dialogue: 0,0:08:39.56,0:08:42.68,Default,,0000,0000,0000,,This allows you to cycle\Nmuch farther.
+Dialogue: 0,0:08:42.80,0:08:47.59,Default,,0000,0000,0000,,Yes! I was wondering how we'd\Nget to our starting point.
+Dialogue: 0,0:08:47.70,0:08:49.68,Default,,0000,0000,0000,,This is convenient and fun!
+Dialogue: 0,0:08:50.00,0:08:52.17,Default,,0000,0000,0000,,As long as we avoid peak hours
+Dialogue: 0,0:08:52.25,0:08:56.43,Default,,0000,0000,0000,,and don't get in the way\Nof the commuters.
+Dialogue: 0,0:08:56.70,0:08:58.32,Default,,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:08:58.84,0:09:03.19,Default,,0000,0000,0000,,But we can take it to the starting point,\Nand not worry about the return home.
+Dialogue: 0,0:09:03.30,0:09:04.32,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:04.93,0:09:10.29,Default,,0000,0000,0000,,Ami, yours is a folding bike and\Neasy to take and pack. That's nice.
+Dialogue: 0,0:09:10.77,0:09:14.74,Default,,0000,0000,0000,,I'm so happy I can\Ntake Pontakun.
+Dialogue: 0,0:09:14.80,0:09:19.96,Default,,0000,0000,0000,,Seriously, this is a great feeling!\NMy world is opening up!
+Dialogue: 0,0:09:23.89,0:09:25.43,Default,,0000,0000,0000,,We're here!
+Dialogue: 0,0:09:25.89,0:09:28.68,Default,,0000,0000,0000,,Ami, you're in the way.
+Dialogue: 0,0:09:31.56,0:09:34.20,Default,,0000,0000,0000,,- How about here?\N- Yeah.
+Dialogue: 0,0:09:34.76,0:09:37.46,Default,,0000,0000,0000,,- Let's put it together.\N- Okay!
+Dialogue: 0,0:09:43.81,0:09:47.70,Default,,0000,0000,0000,,Your bike looks hard\Nto set up.
+Dialogue: 0,0:09:47.84,0:09:50.95,Default,,0000,0000,0000,,It's not bad, once you get used to it.
+Dialogue: 0,0:09:51.11,0:09:54.16,Default,,0000,0000,0000,,I could never do that.
+Dialogue: 0,0:10:01.24,0:10:02.60,Default,,0000,0000,0000,,I splurged on this.
+Dialogue: 0,0:10:03.11,0:10:05.93,Default,,0000,0000,0000,,Now I'm a cyclist too!
+Dialogue: 0,0:10:06.19,0:10:08.95,Default,,0000,0000,0000,,I'm a cyclist!
+Dialogue: 0,0:10:09.02,0:10:10.82,Default,,0000,0000,0000,,You look all set.
+Dialogue: 0,0:10:12.18,0:10:15.85,Default,,0000,0000,0000,,I feel a bit embarrassed\N'cuz I'm not used to it yet.
+Dialogue: 0,0:10:16.24,0:10:20.30,Default,,0000,0000,0000,,But if you plan on continuing,\Na helmet's a must-have.
+Dialogue: 0,0:10:20.52,0:10:21.51,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:26.95,0:10:30.15,Default,,0000,0000,0000,,Hinako and Yayoi are late, aren't they?
+Dialogue: 0,0:10:30.21,0:10:33.51,Default,,0000,0000,0000,,A few trains have already arrived.
+Dialogue: 0,0:10:35.07,0:10:38.12,Default,,0000,0000,0000,,Sorry, we're late!
+Dialogue: 0,0:10:38.51,0:10:40.25,Default,,0000,0000,0000,,Sorry to keep you waiting.
+Dialogue: 0,0:10:41.28,0:10:43.05,Default,,0000,0000,0000,,You didn't come by train...?
+Dialogue: 0,0:10:43.13,0:10:45.76,Default,,0000,0000,0000,,No, we rode our bikes.
+Dialogue: 0,0:10:45.89,0:10:48.86,Default,,0000,0000,0000,,Do you live around here?
+Dialogue: 0,0:10:48.93,0:10:51.40,Default,,0000,0000,0000,,No, we live in Zama.
+Dialogue: 0,0:10:51.49,0:10:55.04,Default,,0000,0000,0000,,So it's about 55 kilos away.
+Dialogue: 0,0:10:56.60,0:10:59.69,Default,,0000,0000,0000,,- But we're going cycling from now.\N- It was nothing.
+Dialogue: 0,0:11:00.36,0:11:01.94,Default,,0000,0000,0000,,Amazing.
+Dialogue: 0,0:11:02.17,0:11:05.78,Default,,0000,0000,0000,,Hinako, what's our route for today?
+Dialogue: 0,0:11:05.85,0:11:09.52,Default,,0000,0000,0000,,We'll just leisurely ride\Nalong the coastline.
+Dialogue: 0,0:11:09.58,0:11:13.30,Default,,0000,0000,0000,,The salt air and ocean views\Nare so refreshing.
+Dialogue: 0,0:11:13.56,0:11:16.95,Default,,0000,0000,0000,,Let's just enjoy it as we go.
+Dialogue: 0,0:11:17.29,0:11:19.59,Default,,0000,0000,0000,,- I can't wait!\N- Yeah.
+Dialogue: 0,0:11:19.72,0:11:22.95,Default,,0000,0000,0000,,Remember, always be careful.
+Dialogue: 0,0:11:23.01,0:11:26.19,Default,,0000,0000,0000,,Ride on the left side and\Ndon't ride parallel.
+Dialogue: 0,0:11:26.60,0:11:30.25,Default,,0000,0000,0000,,If you get tired,\Njust stop and rest.
+Dialogue: 0,0:11:30.46,0:11:31.59,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:11:31.72,0:11:32.97,Default,,0000,0000,0000,,All right!
+Dialogue: 0,0:11:33.58,0:11:35.38,Default,,0000,0000,0000,,I'm gonna go for it!
+Dialogue: 0,0:11:48.39,0:11:51.66,Default,,0000,0000,0000,,Huh? I smell the sea...
+Dialogue: 0,0:11:54.61,0:11:56.50,Default,,0000,0000,0000,,It's the sea!
+Dialogue: 0,0:12:07.49,0:12:08.88,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:12:09.43,0:12:12.45,Default,,0000,0000,0000,,The coastline goes on forever.
+Dialogue: 0,0:12:13.04,0:12:15.21,Default,,0000,0000,0000,,It's easy to ride...
+Dialogue: 0,0:12:15.47,0:12:17.89,Default,,0000,0000,0000,,and the ocean breeze\Nfeels so good!
+Dialogue: 0,0:12:18.36,0:12:20.29,Default,,0000,0000,0000,,This is awesome!
+Dialogue: 0,0:12:22.79,0:12:25.62,Default,,0000,0000,0000,,It felt so good until\Na while ago...
+Dialogue: 0,0:12:26.10,0:12:28.57,Default,,0000,0000,0000,,What is this hill?!
+Dialogue: 0,0:12:28.74,0:12:31.73,Default,,0000,0000,0000,,Come on, we'll be over it\Nin no time.
+Dialogue: 0,0:12:31.82,0:12:33.95,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:12:34.33,0:12:39.12,Default,,0000,0000,0000,,Yes! Well, don't overexert yourself.\NJust go at your pace.
+Dialogue: 0,0:12:39.21,0:12:40.48,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:12:41.17,0:12:45.13,Default,,0000,0000,0000,,They're so fast!\NThis is what they call "leisurely"?
+Dialogue: 0,0:12:45.54,0:12:49.13,Default,,0000,0000,0000,,But I can't be a burden on them today.
+Dialogue: 0,0:12:49.13,0:12:50.38,Default,,0000,0000,0000,,I have to keep up!
+Dialogue: 0,0:12:52.96,0:12:54.54,Default,,0000,0000,0000,,I'm dying...
+Dialogue: 0,0:12:54.69,0:12:58.26,Default,,0000,0000,0000,,Oh no, I can't see them anymore!
+Dialogue: 0,0:12:58.95,0:13:02.14,Default,,0000,0000,0000,,What'll I do...?
+Dialogue: 0,0:13:05.00,0:13:06.02,Default,,0000,0000,0000,,Ami?
+Dialogue: 0,0:13:07.78,0:13:09.37,Default,,0000,0000,0000,,What's wrong, Ami?!
+Dialogue: 0,0:13:12.95,0:13:15.15,Default,,0000,0000,0000,,They left us behind.
+Dialogue: 0,0:13:15.46,0:13:20.10,Default,,0000,0000,0000,,Don't worry. It's hard to keep up\Non hills.
+Dialogue: 0,0:13:20.29,0:13:22.23,Default,,0000,0000,0000,,So don't kill yourself over it.
+Dialogue: 0,0:13:22.92,0:13:23.96,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:24.37,0:13:28.16,Default,,0000,0000,0000,,Hinako said to go at your pace, right?
+Dialogue: 0,0:13:28.78,0:13:29.68,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:13:30.04,0:13:33.88,Default,,0000,0000,0000,,They're probably waiting\Nfor us at the top.
+Dialogue: 0,0:13:34.14,0:13:35.13,Default,,0000,0000,0000,,Think so?
+Dialogue: 0,0:13:35.56,0:13:40.75,Default,,0000,0000,0000,,Pushing yourself so hard that\Nyou can't finish is worse.
+Dialogue: 0,0:13:45.08,0:13:48.48,Default,,0000,0000,0000,,So how do I go up this hill?
+Dialogue: 0,0:13:49.77,0:13:53.94,Default,,0000,0000,0000,,Go at the pace that's comfortable\Nfor you.
+Dialogue: 0,0:13:54.78,0:13:55.92,Default,,0000,0000,0000,,Right...
+Dialogue: 0,0:13:56.32,0:13:59.01,Default,,0000,0000,0000,,I'll try it. Please show me, Aoi.
+Dialogue: 0,0:13:59.88,0:14:03.98,Default,,0000,0000,0000,,First, when going uphill\Nuse your lowest gear,
+Dialogue: 0,0:14:05.51,0:14:08.05,Default,,0000,0000,0000,,stand up on the seat and\Nlook straight ahead.
+Dialogue: 0,0:14:10.13,0:14:13.02,Default,,0000,0000,0000,,Go slow at a steady pace.
+Dialogue: 0,0:14:13.72,0:14:16.28,Default,,0000,0000,0000,,Okay, I think I can do this.
+Dialogue: 0,0:14:16.92,0:14:19.75,Default,,0000,0000,0000,,But...I'm so slow!
+Dialogue: 0,0:14:21.46,0:14:25.31,Default,,0000,0000,0000,,But it's much easier than earlier.
+Dialogue: 0,0:14:25.56,0:14:28.54,Default,,0000,0000,0000,,It's slow, but I'm moving steadily!
+Dialogue: 0,0:14:29.62,0:14:34.15,Default,,0000,0000,0000,,But...how long is this hill\Ngoing to continue?!
+Dialogue: 0,0:14:39.12,0:14:41.62,Default,,0000,0000,0000,,- Oh...\N- There they come.
+Dialogue: 0,0:14:42.25,0:14:43.25,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:14:44.02,0:14:46.88,Default,,0000,0000,0000,,Almost there! Keep going!
+Dialogue: 0,0:14:47.48,0:14:49.17,Default,,0000,0000,0000,,Hang in there!
+Dialogue: 0,0:14:55.22,0:14:58.29,Default,,0000,0000,0000,,- Sorry to keep you waiting.\N- You made it.
+Dialogue: 0,0:14:58.56,0:14:59.99,Default,,0000,0000,0000,,You made it!
+Dialogue: 0,0:15:00.85,0:15:02.61,Default,,0000,0000,0000,,Hinako, that was terrible!
+Dialogue: 0,0:15:02.72,0:15:05.69,Default,,0000,0000,0000,,This hill wasn't "over in no time"!
+Dialogue: 0,0:15:05.77,0:15:06.88,Default,,0000,0000,0000,,You lied!
+Dialogue: 0,0:15:06.94,0:15:10.78,Default,,0000,0000,0000,,Oh, come on. This is nothing\Ncompared to a mountain pass.
+Dialogue: 0,0:15:10.84,0:15:13.38,Default,,0000,0000,0000,,That's not a fair comparison.
+Dialogue: 0,0:15:13.75,0:15:18.03,Default,,0000,0000,0000,,But you made it. Way to go.
+Dialogue: 0,0:15:18.74,0:15:20.15,Default,,0000,0000,0000,,See, look.
+Dialogue: 0,0:15:22.74,0:15:26.28,Default,,0000,0000,0000,,You made it all the way here\Nby yourself.
+Dialogue: 0,0:15:37.73,0:15:39.93,Default,,0000,0000,0000,,Gives you a sense of accomplishment, huh?
+Dialogue: 0,0:15:40.62,0:15:41.52,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:15:42.10,0:15:47.35,Default,,0000,0000,0000,,Good. I hate to spoil the moment,\Nbut we don't have much time. Let's go.
+Dialogue: 0,0:15:48.18,0:15:52.77,Default,,0000,0000,0000,,Um, I just finished this climb\Nand I'm tired and...hey!
+Dialogue: 0,0:15:59.27,0:16:02.78,Default,,0000,0000,0000,,I can't go any further...
+Dialogue: 0,0:16:06.58,0:16:09.04,Default,,0000,0000,0000,,What is that? Is she motioning to me?
+Dialogue: 0,0:16:12.66,0:16:14.36,Default,,0000,0000,0000,,I thought I was going to die!
+Dialogue: 0,0:16:14.79,0:16:16.48,Default,,0000,0000,0000,,You sure can lay it on thick.
+Dialogue: 0,0:16:16.48,0:16:19.54,Default,,0000,0000,0000,,It was downhill just now,\NDidn't you catch your breath?
+Dialogue: 0,0:16:19.71,0:16:22.93,Default,,0000,0000,0000,,No one warned me about\Nthat hill.
+Dialogue: 0,0:16:23.37,0:16:26.52,Default,,0000,0000,0000,,And I was pooped, but\Ndidn't get a chance to rest.
+Dialogue: 0,0:16:27.94,0:16:32.64,Default,,0000,0000,0000,,Oh, come on. We got here.\NSo forget it already.
+Dialogue: 0,0:16:32.84,0:16:35.06,Default,,0000,0000,0000,,We're here where?
+Dialogue: 0,0:16:40.19,0:16:42.70,Default,,0000,0000,0000,,- Let's eat then.\N- All right!
+Dialogue: 0,0:16:48.13,0:16:49.87,Default,,0000,0000,0000,,What is this?!
+Dialogue: 0,0:16:50.24,0:16:52.68,Default,,0000,0000,0000,,The fish is delish!
+Dialogue: 0,0:16:59.07,0:17:01.04,Default,,0000,0000,0000,,I'm on Cloud 9!
+Dialogue: 0,0:17:01.64,0:17:04.56,Default,,0000,0000,0000,,Ami, you look deliriously happy.
+Dialogue: 0,0:17:04.69,0:17:07.67,Default,,0000,0000,0000,,Look at the line.
+Dialogue: 0,0:17:07.76,0:17:10.02,Default,,0000,0000,0000,,After tasting this,\NI can see why though.
+Dialogue: 0,0:17:10.10,0:17:13.26,Default,,0000,0000,0000,,Yeah, this place is a madhouse\Nduring lunch.
+Dialogue: 0,0:17:13.63,0:17:15.82,Default,,0000,0000,0000,,Aren't you glad we rushed?
+Dialogue: 0,0:17:15.91,0:17:17.28,Default,,0000,0000,0000,,Mmhmm...
+Dialogue: 0,0:17:20.00,0:17:21.65,Default,,0000,0000,0000,,Thank you for the food!
+Dialogue: 0,0:17:22.16,0:17:24.77,Default,,0000,0000,0000,,It was delicious!
+Dialogue: 0,0:17:26.22,0:17:30.62,Default,,0000,0000,0000,,But I ate so much.\NI probably put on weight.
+Dialogue: 0,0:17:31.56,0:17:33.30,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:17:33.54,0:17:38.84,Default,,0000,0000,0000,,You burned calories from cycling.\NThis much is nothing.
+Dialogue: 0,0:17:38.92,0:17:41.43,Default,,0000,0000,0000,,Really? Thank goodness.
+Dialogue: 0,0:17:41.54,0:17:46.84,Default,,0000,0000,0000,,But if you normally eat this much\Nwithout cycling, you have a problem.
+Dialogue: 0,0:17:51.90,0:17:55.09,Default,,0000,0000,0000,,Thank you for inviting us today.
+Dialogue: 0,0:17:55.18,0:17:59.16,Default,,0000,0000,0000,,I wasn't expecting such a wonderful\Nreward at the end.
+Dialogue: 0,0:17:59.39,0:18:03.23,Default,,0000,0000,0000,,What're you saying?\NThe main event is from now.
+Dialogue: 0,0:18:03.30,0:18:04.26,Default,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:18:04.72,0:18:08.34,Default,,0000,0000,0000,,We're riding some more? Oh no...
+Dialogue: 0,0:18:09.14,0:18:11.83,Default,,0000,0000,0000,,It's really not that far.
+Dialogue: 0,0:18:11.95,0:18:14.58,Default,,0000,0000,0000,,You got rested just now,\Ndidn't you?
+Dialogue: 0,0:18:14.72,0:18:18.32,Default,,0000,0000,0000,,Well...yes...
+Dialogue: 0,0:18:18.92,0:18:22.68,Default,,0000,0000,0000,,Then let's enjoy it\Nuntil the very end.
+Dialogue: 0,0:18:23.30,0:18:24.18,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:18:24.98,0:18:26.29,Default,,0000,0000,0000,,What's the matter, Ami?
+Dialogue: 0,0:18:27.91,0:18:29.16,Default,,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:18:45.00,0:18:48.17,Default,,0000,0000,0000,,Ami, does your butt hurt?
+Dialogue: 0,0:18:49.52,0:18:53.65,Default,,0000,0000,0000,,N-Not...really...
+Dialogue: 0,0:18:53.74,0:18:55.50,Default,,0000,0000,0000,,Don't pretend.
+Dialogue: 0,0:18:56.47,0:19:01.12,Default,,0000,0000,0000,,Hinako, Yayoi... Can we stop?
+Dialogue: 0,0:19:01.80,0:19:04.32,Default,,0000,0000,0000,,Ami's butt can't take anymore.
+Dialogue: 0,0:19:04.58,0:19:06.42,Default,,0000,0000,0000,,What'll I do...?
+Dialogue: 0,0:19:10.84,0:19:13.22,Default,,0000,0000,0000,,If it hurts, just say so.
+Dialogue: 0,0:19:13.41,0:19:14.92,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:19:15.02,0:19:18.14,Default,,0000,0000,0000,,Being embarrassed and saying nothing\Nonly makes it worse.
+Dialogue: 0,0:19:19.43,0:19:24.07,Default,,0000,0000,0000,,This happens to every beginner.\NDon't worry about it.
+Dialogue: 0,0:19:24.18,0:19:26.35,Default,,0000,0000,0000,,Oh, really?
+Dialogue: 0,0:19:26.69,0:19:29.11,Default,,0000,0000,0000,,Everyone goes through it.
+Dialogue: 0,0:19:29.61,0:19:32.85,Default,,0000,0000,0000,,Ami, put this over your saddle.
+Dialogue: 0,0:19:33.01,0:19:35.73,Default,,0000,0000,0000,,It's cushioned and should help.
+Dialogue: 0,0:19:39.86,0:19:40.90,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:19:41.28,0:19:43.72,Default,,0000,0000,0000,,Much better, I think...
+Dialogue: 0,0:19:43.92,0:19:46.25,Default,,0000,0000,0000,,It's just a bit more.
+Dialogue: 0,0:19:46.45,0:19:47.80,Default,,0000,0000,0000,,Hang in there.
+Dialogue: 0,0:19:48.31,0:19:49.80,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:59.83,0:20:02.32,Default,,0000,0000,0000,,It's better, but...
+Dialogue: 0,0:20:02.69,0:20:05.32,Default,,0000,0000,0000,,It's still sore!
+Dialogue: 0,0:20:12.12,0:20:16.12,Default,,0000,0000,0000,,Okay, when you go uphill...
+Dialogue: 0,0:20:16.57,0:20:21.12,Default,,0000,0000,0000,,Drop it to the lowest gear\Nand stand on your seat...
+Dialogue: 0,0:20:21.37,0:20:23.08,Default,,0000,0000,0000,,and look straight ahead.
+Dialogue: 0,0:20:23.45,0:20:26.63,Default,,0000,0000,0000,,It's okay to go slow,\Njust keep a steady pace.
+Dialogue: 0,0:20:33.52,0:20:34.78,Default,,0000,0000,0000,,Just a bit more.
+Dialogue: 0,0:20:35.32,0:20:36.92,Default,,0000,0000,0000,,Almost there!
+Dialogue: 0,0:20:41.43,0:20:44.15,Default,,0000,0000,0000,,Ami, this is our main event!
+Dialogue: 0,0:20:54.31,0:20:55.72,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:20:56.30,0:20:58.15,Default,,0000,0000,0000,,You did it!
+Dialogue: 0,0:20:58.60,0:20:59.59,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:21:09.22,0:21:10.76,Default,,0000,0000,0000,,I made it!
+Dialogue: 0,0:21:11.09,0:21:12.51,Default,,0000,0000,0000,,Our destination!
+Dialogue: 0,0:21:12.71,0:21:15.83,Default,,0000,0000,0000,,- We made it!\N- This is it!
+Dialogue: 0,0:21:17.03,0:21:18.89,Default,,0000,0000,0000,,That felt great.
+Dialogue: 0,0:21:19.70,0:21:22.37,Default,,0000,0000,0000,,Mt. Fuji was amazing!
+Dialogue: 0,0:21:22.45,0:21:23.44,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:21:23.64,0:21:26.38,Default,,0000,0000,0000,,How's your butt?
+Dialogue: 0,0:21:26.68,0:21:29.43,Default,,0000,0000,0000,,Oh, I forgot all about it.
+Dialogue: 0,0:21:30.88,0:21:31.83,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:21:32.18,0:21:37.27,Default,,0000,0000,0000,,Cycling through beautiful scenery\Nmakes you forget the bad things.
+Dialogue: 0,0:21:38.98,0:21:40.92,Default,,0000,0000,0000,,You can say that again.
+Dialogue: 0,0:21:41.35,0:21:46.19,Default,,0000,0000,0000,,I feel like I rode\Nan unbelievably long distance.
+Dialogue: 0,0:21:46.26,0:21:48.74,Default,,0000,0000,0000,,Actually, I think we did.
+Dialogue: 0,0:21:49.60,0:21:51.51,Default,,0000,0000,0000,,I wonder how far we traveled?
+Dialogue: 0,0:21:52.16,0:21:56.51,Default,,0000,0000,0000,,Today's total distance\Nis about 55 kilometers.
+Dialogue: 0,0:21:58.54,0:22:00.42,Default,,0000,0000,0000,,55 kilos?!
+Dialogue: 0,0:22:01.60,0:22:04.09,Default,,0000,0000,0000,,I rode that far?!
+Dialogue: 0,0:22:04.27,0:22:06.27,Default,,0000,0000,0000,,Pretty far, don't you think?
+Dialogue: 0,0:22:06.72,0:22:08.28,Default,,0000,0000,0000,,Just broke your record, huh?
+Dialogue: 0,0:22:12.19,0:22:13.56,Default,,0000,0000,0000,,I don't believe it.
+Dialogue: 0,0:22:14.00,0:22:16.60,Default,,0000,0000,0000,,I can do it if I try.
+Dialogue: 0,0:22:17.22,0:22:21.79,Default,,0000,0000,0000,,At this rate, you'll be able\Nto go even farther.
+Dialogue: 0,0:22:23.87,0:22:24.92,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:27.67,0:22:29.72,Default,,0000,0000,0000,,Okay then, let's head back.
+Dialogue: 0,0:22:30.11,0:22:34.17,Default,,0000,0000,0000,,Huh? Are you and Yayoi going\Nto cycle back?
+Dialogue: 0,0:22:34.55,0:22:37.55,Default,,0000,0000,0000,,This is nothing on a road bike.
+Dialogue: 0,0:22:37.94,0:22:40.83,Default,,0000,0000,0000,,You two are amazing.
+Dialogue: 0,0:22:41.33,0:22:42.58,Default,,0000,0000,0000,,We'll see you again.
+Dialogue: 0,0:22:42.82,0:22:44.74,Default,,0000,0000,0000,,Be careful on your way home.
+Dialogue: 0,0:22:46.56,0:22:49.94,Default,,0000,0000,0000,,And we'll "pack and take" our bikes\Non the train.
+Dialogue: 0,0:22:50.23,0:22:51.30,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:22:59.67,0:23:00.92,Default,,0000,0000,0000,,- Good morning!\N- 'Morning!
+Dialogue: 0,0:23:01.82,0:23:03.83,Default,,0000,0000,0000,,Oh, good morning!
+Dialogue: 0,0:23:04.13,0:23:05.87,Default,,0000,0000,0000,,Oh, you're by yourself?
+Dialogue: 0,0:23:08.14,0:23:11.32,Default,,0000,0000,0000,,Ami is in bed with muscle aches.
+Dialogue: 0,0:23:11.41,0:23:13.71,Default,,0000,0000,0000,,- Again?\N- Oh my.
+Dialogue: 0,0:23:13.82,0:23:16.68,Default,,0000,0000,0000,,I need to do something\Nto prevent muscle pain...
+Dialogue: 0,0:23:16.76,0:23:20.07,Default,,0000,0000,0000,,as well as something to save my butt.
+Dialogue: 0,0:23:35.86,0:23:39.01,Default,,0000,0000,0000,,I can't believe I actually\Nrode 55 kilometers!
+Dialogue: 0,0:23:39.32,0:23:41.54,Default,,0000,0000,0000,,Where there's a will, there's a way!
+Dialogue: 0,0:23:41.75,0:23:44.90,Default,,0000,0000,0000,,Some day, I want to go on\Na long-distance ride.
+Dialogue: 0,0:23:45.49,0:23:47.74,Default,,0000,0000,0000,,Next time on Long Riders:
+Dialogue: 0,0:23:47.84,0:23:49.40,Default,,0000,0000,0000,,"A New World"
